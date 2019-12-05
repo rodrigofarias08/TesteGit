@@ -1,7 +1,7 @@
 dwdagf
 
-
-linha2
-
+apagado linha 2
 
 linha3
+
+inseri linha 5
