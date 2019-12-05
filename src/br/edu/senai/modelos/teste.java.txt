@@ -4,4 +4,8 @@ dwdagf
 linha2
 
 
-linha3
+apagado linha 3
+
+
+
+linha 4
