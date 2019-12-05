@@ -1,11 +1,10 @@
 dwdagf
 
+apagado linha 2
 
-linha2
-
-
-apagado linha 3
-
-
+linha3
 
 linha 4
+
+
+inseri linha 5
